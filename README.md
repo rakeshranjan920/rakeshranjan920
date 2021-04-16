@@ -27,10 +27,12 @@ Here are some ideas to get you started:
   <code><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>
   <code><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code>
   <code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg"></code>
-
+  
 </div>
 <div align="center">
   <code><img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
 </div>
 
 <br/><br/>
+### Education
+
