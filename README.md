@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a Software Engineer with Strong Data Structure Algorithm and problem-solving skill. I am skilled in C++,Java, Python and  MERN. I have done my engineering with Dual Degree Btech+Mtech in Information Technology From IIIT Allahabad
+I am a Software Engineer with Strong Data Structure Algorithm and problem-solving skill. I am skilled in C++,Java, Python and  MERN. I have done my engineering in Information Technology From IIIT Allahabad
 
 <!--
 **rakeshranjan920/rakeshranjan920** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
